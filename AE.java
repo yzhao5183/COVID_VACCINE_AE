@@ -38,7 +38,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-public class RWD {
+public class AE {
 	
 	public static String[] groups = {};
 	public static ArrayList<String> in = new ArrayList<>();
