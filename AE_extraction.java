@@ -1,4 +1,4 @@
-package edu.mayo.gene;
+package edu.archive;
 
 
 import java.io.BufferedReader;
